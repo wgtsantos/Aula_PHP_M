@@ -58,7 +58,7 @@
         <label> Data de Nascimento: </label>
         <input type="date" name="data_nasc" id="data_nasc" value="<?php echo $data_nasc ?>" required/>
         <br/> <br/>
-        <input type="submit" name="enviar" id="enviar" value="ENVIAR"/>
+        <input type="submit" name="enviar" id="enviar" value="ALTERAR DADOS"/>
 
     </form>
 
